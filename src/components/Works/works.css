@@ -57,11 +57,6 @@
   }
   
 
-  .card {
-    height: 48vw;
-   
-  }
-
   .container {
     display: flex;
     justify-content: center;
