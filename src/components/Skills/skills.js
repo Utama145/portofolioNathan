@@ -8,9 +8,7 @@ const skills = () => {
     <section id="skills">
       <span className="skillTitle">what I do</span>
       <span className="skillDesc">
-        I am skilled and passionate web designer with ecperience in creatinh
-        visually appelaing and user-friendly websites. I have good understanding
-        of design. I am proficient in HTML, CSS and JavaScript
+       I am a skilled and passionate web designer with experience in creating visually appealing and user-friendly websites. I have a good understanding of design principles and am proficient in HTML, CSS, and JavaScript.
       </span>
       <div className="skillBars">
         <div className="skillBar">
