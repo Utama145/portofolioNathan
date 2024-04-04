@@ -77,3 +77,10 @@
   box-shadow: -1px -1px 1px 1px #FCCD03;
   border-radius: 100px;
 }
+
+@media screen and (max-width: 500px) {
+ .submitBtn {
+  font-size: 10px;
+  width: 90px;
+}
+}
