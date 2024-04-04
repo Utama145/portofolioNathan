@@ -31,3 +31,19 @@
 .worksImg1 {
   width: 336px;
 }
+
+@media screen and (max-width: 520px) {
+  .card {
+    margin-bottom: 20px;
+  }
+
+ .knows{
+  display: inline;
+ }
+  .container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: nowrap;
+  }
+}
