@@ -1,0 +1,33 @@
+#known {
+  margin: 0 auto;
+  min-height: calc(100vh - 4rem);
+  width: 100vw;
+  max-width: 60rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 1rem;
+}
+
+.known-title {
+  font-size: 3rem;
+}
+
+.knows {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100vw;
+  max-width: 65rem;
+}
+
+.worksImg {
+  width: 175px;
+}
+
+.worksImg1 {
+  width: 336px;
+}
