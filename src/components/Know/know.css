@@ -32,18 +32,25 @@
   width: 336px;
 }
 
+.m-1 {
+  margin-left: 40px;
+}
 @media screen and (max-width: 520px) {
   .card {
     margin-bottom: 20px;
   }
 
- .knows{
-  display: inline;
- }
+  .knows {
+    display: inline;
+  }
   .container {
     display: flex;
     justify-content: center;
     text-align: center;
     flex-wrap: nowrap;
+  }
+
+  .m-1 {
+    margin-left: 0px;
   }
 }
